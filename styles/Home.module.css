@@ -7,9 +7,9 @@
   min-height: 100vh;
 }
 
-.description {
+.itemPrices {
   display: inherit;
-  justify-content: inherit;
+  justify-content: center;
   align-items: inherit;
   font-size: 0.85rem;
   max-width: var(--max-width);

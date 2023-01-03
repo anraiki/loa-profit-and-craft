@@ -1,0 +1,32 @@
+{
+    "greenOreha": {
+        "fish": {
+            "fish": 72,
+            "pearl": 36,
+            "goldFish": 9,
+            "qtyCrafted": 30,
+            "costToCraft": 203,
+            "timeToCraft": 1800
+        }
+    },
+    "blueOreha": {
+        "fish": {
+            "fish": 80,
+            "pearl": 40,
+            "goldFish": 10,
+            "qtyCrafted": 30,
+            "costToCraft": 205,
+            "timeToCraft": 2720
+        }
+    },
+    "purpleOreha": {
+        "fish": {
+            "fish": 128,
+            "pearl": 64,
+            "goldFish": 16,
+            "qtyCrafted": 20,
+            "costToCraft": 250,
+            "timeToCraft": 3600
+        }
+    }
+}
